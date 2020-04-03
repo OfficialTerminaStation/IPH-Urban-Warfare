@@ -595,6 +595,12 @@
 	icon_state = "saare"
 	worn_state = "saare"
 
+/obj/item/clothing/under/scavfit
+	name = "scavfit uniform"
+	desc = "A outfit composed of ripped jeans and a brown shirt."
+	icon_state = "scavfit"
+	worn_state = "scavfit"
+
 /obj/item/clothing/under/frontier
 	name = "frontier clothes"
 	desc = "A rugged flannel shirt and denim overalls. A popular style among frontier colonists."
