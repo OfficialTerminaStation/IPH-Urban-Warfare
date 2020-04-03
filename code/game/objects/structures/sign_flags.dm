@@ -1,5 +1,5 @@
 /obj/structure/sign/flag
-	var/ripped = FALSE
+	var/ripped = TRUE
 	icon = 'icons/obj/decals.dmi'
 /obj/structure/sign/flag/attack_hand(mob/user as mob)
 	if (!ripped)
